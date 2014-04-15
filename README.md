@@ -2,7 +2,7 @@
 A UIView subclass for displaying an array of content in a Windows Live Tile like experience
 
 # Demo
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/PwamWy_GG50/0.jpg)](http://www.youtube.com/watch?v=PwamWy_GG50)
+[![Click to view on YouTube](http://img.youtube.com/vi/PwamWy_GG50/0.jpg)](http://www.youtube.com/watch?v=PwamWy_GG50)
 
 # Features
 
