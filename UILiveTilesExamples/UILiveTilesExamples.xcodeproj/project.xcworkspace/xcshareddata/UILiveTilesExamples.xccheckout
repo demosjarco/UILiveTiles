@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>C1D11165-EA8E-4295-90DF-8F052879DFE0</string>
+	<key>IDESourceControlProjectName</key>
+	<string>UILiveTilesExamples</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>7A6AAF31-8CC2-4089-9724-BC17CB6AC030</key>
+		<string>ssh://github.com/TechGeniusApps/UILiveTiles.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>UILiveTilesExamples/UILiveTilesExamples.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>7A6AAF31-8CC2-4089-9724-BC17CB6AC030</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://github.com/TechGeniusApps/UILiveTiles.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>7A6AAF31-8CC2-4089-9724-BC17CB6AC030</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>7A6AAF31-8CC2-4089-9724-BC17CB6AC030</string>
+			<key>IDESourceControlWCCName</key>
+			<string>UILiveTiles</string>
+		</dict>
+	</array>
+</dict>
+</plist>
