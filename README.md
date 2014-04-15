@@ -8,3 +8,10 @@ A UIView subclass for displaying an array of content in a Windows Live Tile like
 * Control how long it takes to advance to next item
 * Memory optimized
 * Lightweight, clean, easy-to-read, self-documenting code that you will enjoy using in your projects.
+
+## Requirements
+
+* iOS 6.0 or later.
+* ARC memory management.
+
+## Basic API Description
