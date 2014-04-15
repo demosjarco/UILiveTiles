@@ -14,7 +14,7 @@ A UIView subclass for displaying an array of content in a Windows Live Tile like
 
 ## Requirements
 
-* iOS 6.0 or later.
+* iOS 6.1 or later.
 * ARC memory management.
 
 ## Basic API Description
