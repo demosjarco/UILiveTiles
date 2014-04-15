@@ -19,6 +19,7 @@
 		17755ECD18FD0E7A00904604 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 17755ECB18FD0E7A00904604 /* InfoPlist.strings */; };
 		17755ECF18FD0E7A00904604 /* UILiveTilesExamplesTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 17755ECE18FD0E7A00904604 /* UILiveTilesExamplesTests.m */; };
 		17755ED918FD0EDC00904604 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 17755ED818FD0EDC00904604 /* Default-568h@2x.png */; };
+		17FB10A018FD0FD000EF92EC /* UILiveTile.m in Sources */ = {isa = PBXBuildFile; fileRef = 17FB109F18FD0FD000EF92EC /* UILiveTile.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -48,6 +49,8 @@
 		17755ECC18FD0E7A00904604 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		17755ECE18FD0E7A00904604 /* UILiveTilesExamplesTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = UILiveTilesExamplesTests.m; sourceTree = "<group>"; };
 		17755ED818FD0EDC00904604 /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
+		17FB109E18FD0FD000EF92EC /* UILiveTile.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UILiveTile.h; sourceTree = "<group>"; };
+		17FB109F18FD0FD000EF92EC /* UILiveTile.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = UILiveTile.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -118,6 +121,7 @@
 		17755EB018FD0E7A00904604 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				17FB109D18FD0FD000EF92EC /* UILiveTile */,
 				17755EB118FD0E7A00904604 /* UILiveTilesExamples-Info.plist */,
 				17755EB218FD0E7A00904604 /* InfoPlist.strings */,
 				17755EB518FD0E7A00904604 /* main.m */,
@@ -142,6 +146,15 @@
 				17755ECB18FD0E7A00904604 /* InfoPlist.strings */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		17FB109D18FD0FD000EF92EC /* UILiveTile */ = {
+			isa = PBXGroup;
+			children = (
+				17FB109E18FD0FD000EF92EC /* UILiveTile.h */,
+				17FB109F18FD0FD000EF92EC /* UILiveTile.m */,
+			);
+			path = UILiveTile;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -239,6 +252,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				17FB10A018FD0FD000EF92EC /* UILiveTile.m in Sources */,
 				17755EBA18FD0E7A00904604 /* AppDelegate.m in Sources */,
 				17755EB618FD0E7A00904604 /* main.m in Sources */,
 			);
@@ -436,6 +450,7 @@
 				17755ED418FD0E7A00904604 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		17755ED518FD0E7A00904604 /* Build configuration list for PBXNativeTarget "UILiveTilesExamplesTests" */ = {
 			isa = XCConfigurationList;
@@ -444,6 +459,7 @@
 				17755ED718FD0E7A00904604 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
