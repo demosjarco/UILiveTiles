@@ -1,6 +1,9 @@
 # UILiveTiles
 A UIView subclass for displaying an array of content in a Windows Live Tile like experience
 
+# Demo
+[![DEMO](http://img.youtube.com/vi/PwamWy_GG50/0.jpg)](http://www.youtube.com/watch?v=PwamWy_GG50)
+
 # Features
 
 * Supports text and/or images
