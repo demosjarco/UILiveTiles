@@ -57,3 +57,7 @@ There are 2 ways to animate. One is a fixed duration where you set a duration (i
 [self.liveTileTextImages beginAnimatingLiveTileWithFixedDuration:5.0f];
 ```
 Fixed duration example
+
+```obj-c
+```
+Random duration example
